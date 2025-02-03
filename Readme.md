@@ -79,3 +79,6 @@ A comprehensive FAQ management system developed with Django, offering RESTful AP
 - ✅ Test all API endpoints thoroughly
 - 🔤 Use correct language codes for filtering
 
+## admin credentials
+- username-anjali
+- password - 123456
